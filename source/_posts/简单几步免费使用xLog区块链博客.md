@@ -22,6 +22,8 @@ MetaMask中有一种数字货币CSB，有了它才可以使用xLog。
 
 首先打开[MetaMask官网]([https://metamask.io/)) ，*Download* 会跳转到[chrome 应用商店](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn/related) 页面,直接 *添加至chrome* 即可。如果无法访问chrome商店可以尝试使用魔法(这个就不能细说了)，或者访问[这里]([MetaMask_10.28.1_chrome扩展插件最新版下载_极简插件](https://chrome.zzzmh.cn/info/nkbihfbeogaeaoehlefnkodbefgpgknn)) 下载插件。
 
+<!--more-->
+
 ![Metamask](https://missuo.ru/file/4e9011baa018398da0b83.png)
 
 ![Metamask](https://missuo.ru/file/33f8b614578bd39cb8e29.png)
